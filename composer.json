@@ -1,0 +1,13 @@
+{
+    "name": "digitaltoad/silex-extensions",
+    "type": "library",
+    "description": "A set of common extensions for Silex",
+    "keywords": ["Silex"],
+    "version": "0.1.0",
+    "require": {
+      "php": ">=5.3.2"
+    },
+    "autoload": {
+      "psr-0": { "SilexExtension": "src" }
+    }
+}
